@@ -1,5 +1,5 @@
 # Modern Information Retrieval
-This repository contains the project code for the course Modern Information Retrieval at Sharif University of Technology. The project is about implementing a information retrieval system and other related works on data like clustering, classification, recommendation, ranking using machine learning methods.
+This repository contains the project code for the course Modern Information Retrieval(MIR-2023) at Sharif University of Technology. The project is about implementing a information retrieval system and other related works on data like clustering, classification, recommendation, ranking using machine learning methods.
 
 The data used in the project are scientific articles extracted from the <a href="https://www.semanticscholar.org/">Semantic Scholar</a> website. The project is implemented using `Python` and its libraries.
 

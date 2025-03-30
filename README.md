@@ -1,3 +1,6 @@
+#ADDITIONS :
+This project integrates advanced AI-driven techniques to enhance business card digitization, automate company information retrieval, and acquire corporate news. By leveraging OpenAI APIs, web scraping, and machine learning, it improves business card text classification, enriches company profiles, and fetches real-time corporate updates. Built upon an information retrieval system, it further applies clustering, classification, and ranking techniques to optimize data organization and relevance.
+
 # Modern Information Retrieval
 This repository contains the project code for the course Modern Information Retrieval(MIR-2023) at Sharif University of Technology. The project is about implementing a information retrieval system and other related works on data like clustering, classification, recommendation, ranking using machine learning methods.
 
